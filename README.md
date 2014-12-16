@@ -14,6 +14,9 @@ List of Pimcore plugins and area bricks
 * [Search PHP](https://github.com/ThomasKeil/pimcore-plugin-SearchPhp) - This plugin provides a search for your website
 * [Hide Status Bar](https://github.com/basilicom/pimcore-plugin-hide-status-bar) - Hides the Pimcore status bar (version info and warnings) for ordinary users. 
 * [Humans Pimcore Plugin](https://github.com/basilicom/pimcore-plugin-humans) - Pre-installed people avatars instead of robot defaults for the pimcore CMS. 
+* [Blog](https://github.com/rafalgalka/pimcore-plugin-blog) - Blog plugin for pimcore
+* [Contact](https://github.com/rafalgalka/pimcore-plugin-contact) - Pimcore Contact Plugin
+* [Commenting](https://github.com/rafalgalka/pimcore-plugin-commenting) - Pimcore Commenting Plugin
 
 ## Area Bricks
 *The areablock is the content construction kit for documents offered by pimcore. [Developer Guide](https://www.pimcore.org/wiki/display/PIMCORE3/Create+your+own+bricks)**
