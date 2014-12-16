@@ -18,6 +18,7 @@ List of Pimcore plugins and area bricks
 * [Contact](https://github.com/rafalgalka/pimcore-plugin-contact) - Pimcore Contact Plugin
 * [Commenting](https://github.com/rafalgalka/pimcore-plugin-commenting) - Pimcore Commenting Plugin
 * [Poll](https://github.com/rafalgalka/pimcore-poll-plugin) - Publish poll on your pimcore powered website
+* [Pimcore Migrations](https://github.com/akramer-zibra/pimcore-migrations) - Migration scripts with extensible migration aspects 
 
 ## Area Bricks
 *The areablock is the content construction kit for documents offered by pimcore. [Developer Guide](https://www.pimcore.org/wiki/display/PIMCORE3/Create+your+own+bricks)**
