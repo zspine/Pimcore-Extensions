@@ -12,6 +12,7 @@ List of Pimcore plugins and area bricks
 * [Object Input Restrction](https://github.com/ThomasKeil/pimcore-plugin-ObjectInputRestriction) - Restrict the rights to access input elements based on Users/Roles
 * [Text Field Counter](https://github.com/ThomasKeil/pimcore-plugin-TextfieldCounter) - Adds a counter to textfields that display the amount of remaining characters
 * [Search PHP](https://github.com/ThomasKeil/pimcore-plugin-SearchPhp) - This plugin provides a search for your website
+* [Hide Status Bar](https://github.com/basilicom/pimcore-plugin-hide-status-bar) - Hides the Pimcore status bar (version info and warnings) for ordinary users. 
 
 ## Area Bricks
 *The areablock is the content construction kit for documents offered by pimcore. [Developer Guide](https://www.pimcore.org/wiki/display/PIMCORE3/Create+your+own+bricks)**
